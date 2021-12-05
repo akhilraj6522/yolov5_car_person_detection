@@ -29,3 +29,10 @@ To run inference :
     python detect.py --source check.jpg --weights last.pt
 
 The output image will be saved as result.jpg
+
+<h1>Sample image</h1>
+![](check.jpg )
+
+<h1>Output image</h1>
+
+![](result.jpg )
