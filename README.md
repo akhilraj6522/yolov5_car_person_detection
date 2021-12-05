@@ -13,7 +13,9 @@ Model performance on validation dataset:
 Class     Images     Labels          Precision          Recall
  
 all        501       4003          0.748              0.696 
+
 person     501       2654          0.744              0.668
+
 car        501       1349          0.752              0.725
    
 Trained model can be downloaded from this [link](https://drive.google.com/file/d/15jaM1af6I4BDYbGpOaNFewa5hUdO7iOr/view?usp=sharing)
