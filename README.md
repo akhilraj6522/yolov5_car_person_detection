@@ -31,6 +31,7 @@ To run inference :
 The output image will be saved as result.jpg
 
 <h1>Sample image</h1>
+
 ![](check.jpg )
 
 <h1>Output image</h1>
