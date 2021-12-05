@@ -6,7 +6,7 @@ Converted coco label format to yolo(darknet) format using this frageneral_json2y
 
 Model trained on YOLOv5l pretrained model.
 
-No of epochs trained:4
+No of epochs for training the model: 4
 
 Model performance on validation dataset:
 
